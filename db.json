@@ -1,0 +1,330 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Satin Slip Dress",
+      "category": "Women",
+      "type": "Dresses",
+      "price": 2499,
+      "oldPrice": 3299,
+      "rating": 4.8,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "color": "Champagne",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "description": "A refined satin slip dress with a fluid silhouette, delicate straps and an effortlessly elegant finish.",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "name": "Oversized Linen Shirt",
+      "category": "Women",
+      "type": "Tops",
+      "price": 1899,
+      "oldPrice": 2399,
+      "rating": 4.7,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Ivory",
+      "image": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?auto=format&fit=crop&w=900&q=85",
+      "description": "Relaxed-fit linen shirt designed for breathable everyday styling and polished layering.",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "name": "Classic Leather Jacket",
+      "category": "Men",
+      "type": "Jackets",
+      "price": 4999,
+      "oldPrice": 6499,
+      "rating": 4.9,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Black",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85",
+      "description": "A timeless leather-inspired jacket with a clean cut, silver hardware and a premium streetwear feel.",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "name": "Wide Leg Trousers",
+      "category": "Women",
+      "type": "Bottoms",
+      "price": 2199,
+      "oldPrice": 2799,
+      "rating": 4.6,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "color": "Mocha",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQG59ZVZep5Xi5VNLLxYvC1a7I3vXJ2XSk4hlPCFiNK8FUK2dIpVOXPWIg3dLUdYIXYewPLF3Xs_qPRbyfDIAZdRpf6bfiOjhFUTo0RD6xm",
+      "description": "High-waisted wide-leg trousers with a tailored drape for modern work-to-weekend outfits.",
+      "featured": false
+    },
+    {
+      "id": "5",
+      "name": "Essential Cotton Tee",
+      "category": "Men",
+      "type": "T-Shirts",
+      "price": 999,
+      "oldPrice": 1299,
+      "rating": 4.5,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "White",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "description": "A soft premium cotton tee with a minimal silhouette that works with every wardrobe.",
+      "featured": false
+    },
+    {
+      "id": "6",
+      "name": "Minimal Knit Polo",
+      "category": "Men",
+      "type": "Tops",
+      "price": 1699,
+      "oldPrice": 2199,
+      "rating": 4.7,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Olive",
+      "image": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?auto=format&fit=crop&w=900&q=85",
+      "description": "A refined knit polo with a soft hand feel and versatile smart-casual styling.",
+      "featured": false
+    },
+    {
+      "id": "7",
+      "name": "Structured Mini Bag",
+      "category": "Accessories",
+      "type": "Bags",
+      "price": 1999,
+      "oldPrice": 2599,
+      "rating": 4.8,
+      "sizes": [
+        "One Size"
+      ],
+      "color": "Burgundy",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+      "description": "Compact structured handbag with a polished finish, designed to elevate day-to-night looks.",
+      "featured": true
+    },
+    {
+      "id": "8",
+      "name": "Everyday Retro Sneakers",
+      "category": "Footwear",
+      "type": "Sneakers",
+      "price": 2799,
+      "oldPrice": 3499,
+      "rating": 4.6,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "color": "Cream",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+      "description": "Retro-inspired everyday sneakers combining a clean profile with comfortable cushioning.",
+      "featured": false
+    },
+    {
+      "id": "9",
+      "name": "Pleated Midi Skirt",
+      "category": "Women",
+      "type": "Bottoms",
+      "price": 1899,
+      "oldPrice": 2499,
+      "rating": 4.7,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "color": "Plum",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPSSjStlcKarxF8MvtFgr8MKxbybcjLU4T7yrC7kcGC5M6HGYHYuJlPevoFZ5rqtwyFoF2whesVlNiEbBqhhDds58GbMHO--T98RT5dIRfzYlaCbjzPMntL9s",
+      "description": "A flowing pleated midi skirt with an elegant movement and easy styling versatility.",
+      "featured": false
+    },
+    {
+      "id": "10",
+      "name": "Tailored Blazer",
+      "category": "Men",
+      "type": "Blazers",
+      "price": 3899,
+      "oldPrice": 4699,
+      "rating": 4.8,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Charcoal",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=85",
+      "description": "A sharply tailored blazer with a modern fit for office, occasion and elevated casual wear.",
+      "featured": true
+    },
+    {
+      "id": "11",
+      "name": "Red Check Overshirt",
+      "category": "Men",
+      "type": "Overshirts",
+      "price": 1799,
+      "oldPrice": 2299,
+      "rating": 4.9,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Red / Black",
+      "image": "/models/red-checks-model.jpeg",
+      "modelImage": "/models/red-checks-model.jpeg",
+      "matchingOutfit": "Essential White T-Shirt + Black Jeans",
+      "description": "A bold red-and-black checked overshirt styled as an easy everyday layer over a clean white tee.",
+      "featured": true
+    },
+    {
+      "id": "12",
+      "name": "Essential White T-Shirt",
+      "category": "Men",
+      "type": "T-Shirts",
+      "price": 899,
+      "oldPrice": 1199,
+      "rating": 4.8,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "White",
+      "image": "/models/white-tee-model.jpeg",
+      "modelImage": "/models/white-tee-model.jpeg",
+      "matchingOutfit": "Red Check Overshirt + Black Jeans",
+      "description": "A clean white everyday tee designed to pair effortlessly with overshirts, jackets and casual bottoms.",
+      "featured": true
+    },
+    {
+      "id": "13",
+      "name": "Black Logo Cap",
+      "category": "Accessories",
+      "type": "Caps",
+      "price": 799,
+      "oldPrice": 999,
+      "rating": 4.7,
+      "sizes": [
+        "One Size"
+      ],
+      "color": "Black",
+      "image": "/models/black-cap-model.jpeg",
+      "modelImage": "/models/black-cap-model.jpeg",
+      "matchingOutfit": "Sky Blue Sweatshirt + Black Pants",
+      "description": "A relaxed black logo cap that finishes casual streetwear looks with a clean, sporty touch.",
+      "featured": true
+    },
+    {
+      "id": "14",
+      "name": "Navy Stripe Polo T-Shirt",
+      "category": "Men",
+      "type": "Polo T-Shirts",
+      "price": 1599,
+      "oldPrice": 1999,
+      "rating": 4.8,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Navy / White",
+      "image": "/models/blue-polo-model.jpeg",
+      "modelImage": "/models/blue-polo-model.jpeg",
+      "matchingOutfit": "Black Trousers + Black Logo Cap",
+      "description": "A navy striped polo with a relaxed smart-casual feel, styled for everyday comfort and easy layering.",
+      "featured": true
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "siddu",
+      "email": "siddu@gmail.com",
+      "password": "siddu@123",
+      "role": "admin"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "u1",
+      "customerName": "siddu",
+      "items": [
+        {
+          "id": "11",
+          "name": "Red Check Overshirt",
+          "category": "Men",
+          "type": "Overshirts",
+          "price": 1799,
+          "oldPrice": 2299,
+          "rating": 4.9,
+          "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+          "color": "Red / Black",
+          "image": "/models/red-checks-model.jpeg",
+          "modelImage": "/models/red-checks-model.jpeg",
+          "matchingOutfit": "Essential White T-Shirt + Black Jeans",
+          "description": "A bold red-and-black checked overshirt styled as an easy everyday layer over a clean white tee.",
+          "featured": true,
+          "size": "M",
+          "qty": 1
+        }
+      ],
+      "address": {
+        "fullName": "siddu",
+        "phone": "7896543234",
+        "address": "visakapattanam",
+        "city": "Vizag",
+        "state": "Andhra Pradesh",
+        "pincode": "5430048",
+        "landmark": "marikavalsa"
+      },
+      "paymentMethod": "Cash on Delivery",
+      "subtotal": 1799,
+      "shipping": 99,
+      "total": 1898,
+      "status": "Confirmed",
+      "placedAt": "2026-09-05T09:36:50.828Z",
+      "orderNumber": "ST01010829",
+      "id": "KIlApSN8ATs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
